@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krakovia-Dev
-- 👀 I’m interested in programing: Web & Game Dev + Design
+- 👀 I’m interested in programing: AI & SaaS
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on English-Polish translation & looking for collaborants
 - 📫 Reach me via GitHub (directly) or my email: krakovia.dev@yahoo.com
